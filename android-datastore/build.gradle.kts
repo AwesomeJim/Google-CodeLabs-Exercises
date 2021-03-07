@@ -58,6 +58,8 @@ dependencies {
     implementation(ArchitectureComponents.LIFECYCLE_VIEWMODEL_KTX)
     implementation(ArchitectureComponents.LIFECYCLE_LIVEDATA_KTX)
 
+    implementation( "androidx.datastore:datastore-preferences:1.0.0-alpha06")
+
 
     // testing
     testImplementation(TestingLib.JUNIT)
