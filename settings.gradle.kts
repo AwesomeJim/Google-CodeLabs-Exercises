@@ -22,5 +22,6 @@ rootProject.name = ("googlecodelabsexercises")
 include(
     "app",
     "library-android",
-    "library-kotlin"
+    "library-kotlin",
+    "android-datastore"
 )

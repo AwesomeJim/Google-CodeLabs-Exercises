@@ -14,7 +14,7 @@ object Versions {
     const val ESPRESSO_CORE = "3.3.0"  //espressoVersion
     const val JUNIT = "4.13.1"  //junitVersion
     const val KTLINT = "0.40.0"
-    const val COROUTINES = "1.4.2'" //coroutinesVersion
+    const val COROUTINES = "1.4.2" //coroutinesVersion
     const val LIFE_CYCLE = "2.3.0"
     const val MATERIAL = "1.3.0"
 }
