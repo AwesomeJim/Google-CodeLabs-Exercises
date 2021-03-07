@@ -1,9 +1,10 @@
-package com.github.awesomejim.googlecodelabsexercises.app
+package com.awesomejim.template.app
 
 import android.os.Bundle
 import android.view.View
 import androidx.appcompat.app.AppCompatActivity
-import com.github.awesomejim.googlecodelabsexercises.app.databinding.ActivityMainBinding
+import com.awesomejim.template.app.databinding.ActivityMainBinding
+
 import com.github.awesomejim.googlecodelabsexercises.library.FactorialCalculator
 import com.github.awesomejim.googlecodelabsexercises.library.android.NotificationUtil
 
